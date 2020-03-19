@@ -1,6 +1,6 @@
 {
   "name": "hourse",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.15",
-    "window": "^0.0.1"
+    "window": "^0.0.2"
   },
   "gitHead": "7a5d0507310acec792fdea9819384f4f6a628a0d"
 }
