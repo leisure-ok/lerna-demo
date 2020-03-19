@@ -6,14 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.15"
   },
-  "gitHead": "f357c5ecf0e1aa333cf9f42b6047ea6d56bc21a2"
+  "gitHead": "b4f1fdffd60603d77d45c4077629ecb113f20cd2"
 }
