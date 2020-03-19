@@ -1,6 +1,6 @@
 {
   "name": "hourse",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,11 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-
-"publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "lodash": "^4.17.15",
-    "window": "^0.0.3"
+    "window": "^0.0.4"
   },
   "gitHead": "f357c5ecf0e1aa333cf9f42b6047ea6d56bc21a2"
 }
