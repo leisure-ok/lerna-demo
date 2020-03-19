@@ -1,5 +1,5 @@
 {
-  "name": "window",
+  "name": "lerna-demo-hourse",
   "version": "0.0.6",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "window": "^0.0.6"
   },
-  "gitHead": "0f6b0b486d22ab0e4344eb4e34936c6aa5d689e7"
+  "gitHead": "65c6d7e2701079f01bcf6af7af919e346815803b"
 }
